@@ -29,7 +29,3 @@ Se ejecutan 3 casos de prueba unitarios hechos con el módulo `unittest` de Pyth
 | CP-01 | Registro de productos con validación de datos |
 | CP-02 | Actualización de stock (entradas y salidas) |
 | CP-03 | Cálculo del valor total del inventario |
-
-## Autor
-
-- Juan David Wilches
